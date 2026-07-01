@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0387/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0387/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖持世陀羅尼經
+  identifiers:
+    krp: KR6j0387
+    cbeta: T20n1165
+    cbeta_old_id: T20n1165
+    authorityid: CA0002957
+    json_key: T1165
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1165.xml
+    old_id: T20n1165
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0387_000-T.yaml, hash: 'sha256:448ceffc5f62dd3b32de15d5560873e25706815a1697844ea0e7590eea41aa8c'}
+  - {seq: 1, filename: KR6j0387_001-T.yaml, hash: 'sha256:aba3961aaefc4f5d1942f772b60b9689fd8b26f60e9f968d5aff6b43d218989a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0387_000-T.markers.yaml, hash: 'sha256:0477db021e53d96339af4de33fb6dbf73cff2d6cce0de2009b983c4a632374f3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0387_001-T.markers.yaml, hash: 'sha256:d17bb385117dcaebef7576be612ecd247e5ec6aa3f38421b08411b9f76ac1732'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0387_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2976
+  label: 聖持世陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:31629e022f1e80cc962b4b6cef4f7771d32e9ae553a4be086c6d6d7a8ef0755d

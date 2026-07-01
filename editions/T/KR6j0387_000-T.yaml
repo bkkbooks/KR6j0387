@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0387/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖持世陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1165.xml
+    old_id: T20n1165
+hash: sha256:448ceffc5f62dd3b32de15d5560873e25706815a1697844ea0e7590eea41aa8c
