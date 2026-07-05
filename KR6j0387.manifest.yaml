@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0387_000.yaml, hash: 'sha256:448ceffc5f62dd3b32de15d5560873e25706815a1697844ea0e7590eea41aa8c'}
-  - {seq: 1, filename: KR6j0387_001.yaml, hash: 'sha256:7535f8bd6bd2856733c022e72ffca70841e1d67f834a1bb66e73fc19185db8d4'}
+  - {seq: 1, filename: KR6j0387_001.yaml, hash: 'sha256:aba3961aaefc4f5d1942f772b60b9689fd8b26f60e9f968d5aff6b43d218989a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0387_001.markers.yaml, hash: 'sha256:9b7831b18fc0b522f8e8bb7008e9e9348c573789c627cbfbcde317b147abe21e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0387_000.markers.yaml, hash: 'sha256:15b1e4e56158703edd18a5272f38b02e4683f71cfad09eda48c860c3d5c3ab14'}
+  - {seq: 1, role: markers, filename: assets/KR6j0387_001.markers.yaml, hash: 'sha256:96f69848dab2742bcbaa5e6b04de84722cfc6191473e68f2662798b7862e8779'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 聖持世陀羅尼經
   type: juan
   level: 1
-hash: sha256:99093ef08a33595eb261986af751657fb344e7bbabacacf2b795e5a321f9ee6d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:303432a55ac2f85b7e605e9cdf297813862ad49df29806a6691214390bb77cad
